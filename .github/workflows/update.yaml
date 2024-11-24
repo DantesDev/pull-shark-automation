@@ -36,6 +36,6 @@ jobs:
           commit-message: |
             Update progress
 
-            Co-authored-by: Edmond-labs <vector520807@gmail.com>
+#             Co-authored-by: Edmond-labs <vector520807@gmail.com>
           title: Update progress
           branch: update-progress
